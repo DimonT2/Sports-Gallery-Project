@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+   img {
+    width: 300px;
+    height: 300px;
+  }
+  .no-bullets {
+    list-style-type: none;
+  }
+  
+  
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .spor {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  .spor h2 {
+    font-size: 1.5em; /* Example value for font-size */
+  }
+  .horizontal-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .horizontal-list li {
+    display: inline; /* or inline-block */
+    margin-right: 10px; /* Adjust spacing between items */
+  }
+  header img {
+    width: 80px;  /* Adjust width as needed */
+    height: auto;   /* Maintains aspect ratio */
+    position: absolute;  /* Positions the logo absolutely */
+    top: 10px;        /* Sets top margin from the header */
+    left: 10px;        /* Sets left margin from the header */
+  }
+  
