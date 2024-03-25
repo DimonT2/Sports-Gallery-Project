@@ -1,0 +1,29 @@
+----------------------------------------------------------------------------------------------------------------------------------
+
+selam chatgpt, bana sana rastgele konu seçme imkanı verdiğim bir portfolyo websitesi oluşturmanı istiyorum. bu sitemiz html ve css kodları ile oluşturulmuş bir site olacak, senden baştan sona tüm html ve css kodlarını yazmanı istiyorum. aynı zamanda birkaç tane içerik oluşturmanı istiyorum, içeriklerin konusunu ve özetini senin kendin bulup oluşturmanı istiyorum.
+bu websitesi semantik bir yapıda olacak. yani aside, body, footer, header, main, div'ler gibi tag'leri kullanmanı istiyorum. site son kullanıcıya hoş bir şekilde gözükürse bu benim için yeterli olacaktır.
+kısaca özetlemek gerekirse, hedeflerin şu şekilde:
+1. son kullanıcıya güzel şekilde gözükecek bir site oluşturmalısın.
+2. html ve css kodlarının tamamını bana tek seferde, kodların çalıştığı, yani kodlardan hata almayacağım bir şekilde yapmalısın.
+3. site bir portfolyo sitesi olmalı, konusunu ve birkaç tane içeriğini sen kendin rastgele şekilde seçerek oluşturacaksın, bana bağlı değilsin, ben senin verdiğin konular olsun istiyorum.
+4. sitede semantik html tag'leri olmalı.
+5. son olarak, sitenin css kısmında sitenin mobile uyumlu olmasını sağlayan kodlardan olması güzel olabilir.
+senden istediğim şeyler bu şekilde. söylediğim şeyleri yapmanı, hedeflerini sana sunduğum kurallara uygun bir şekilde gerçekleştirmeni istiyorum. beni tamamen anladıysan evet, yoksa hayır şeklinde cevaplar mısın?
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Konu spor dallar olacak football, basketball, voleyball ve yüzme şeklinde olacak 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+set size of images in css to 300x300
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+add logo in the left top corner 
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+change list from vertical to horizontal
+
+-------------------------------------------------------------------------------------------------------------------------------------
